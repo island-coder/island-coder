@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vihanga</h1>
 <h3 align="center">A Computer Science undergraduate with a keen interest in computing and software solutions. Particularly interested in creative technology-driven solutions for real world issues in Sri Lanka and beyond.</h3>
 
+[Click here to go to my personal portfolio site!](https://vihanga-marasinghe.netlify.app/)
+
 - 🔭 I’m currently working on **Full Stack Spring Boot Applications**
 
 - 🌱 I’m currently learning **Spring Boot**
